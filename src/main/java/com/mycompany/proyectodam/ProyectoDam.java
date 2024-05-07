@@ -11,6 +11,7 @@ package com.mycompany.proyectodam;
 public class ProyectoDam {
 
     public static void main(String[] args) {
-        System.out.println("Esto sale enpantalla\n!");
+        System.out.println("Esto sale en pantalla\n");
+        System.out.println("Versión 1.0\n");
     }
 }
