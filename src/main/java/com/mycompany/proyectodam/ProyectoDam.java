@@ -12,6 +12,6 @@ public class ProyectoDam {
 
     public static void main(String[] args) {
         System.out.println("Esto sale en pantalla\n");
-        System.out.println("Versión 1.0\n");
+        System.out.println("Versión 1.1\n");
     }
 }
